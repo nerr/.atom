@@ -1,0 +1,20 @@
+"*":
+  "exception-reporting":
+    userId: "d4e82a27-0155-dc1f-0faf-d3c1c73ecae5"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "seti-ui"
+      "monokai"
+    ]
+    disabledPackages: [
+      "atom-yii2"
+    ]
+    projectHome: "/Users/Leon/Code"
+  editor:
+    invisibles: {}
+    fontFamily: "SourceCodePro-ExtraLight"
+    fontSize: 13
+    tabLength: 4
+    tabType: "soft"

@@ -1,0 +1,52 @@
+{
+  "name": "atom-yii2",
+  "main": "./lib/main",
+  "version": "0.4.0",
+  "description": "Atom package for work with Yii Framework 2",
+  "keywords": [
+    "atom",
+    "yii2",
+    "Yii Framework 2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igogo5yo/atom-yii2.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "dependencies": {},
+  "readme": "# atom-yii2 package\n[![apm](https://img.shields.io/apm/v/atom-yii2.svg)]()\n[![apm](https://img.shields.io/apm/dm/atom-yii2.svg)]()\n[![apm](https://img.shields.io/apm/l/atom-yii2.svg)]()\n\n\n# Atom package for work with Yii Framework 2\n\nProvides [Yii 2][1] classes and code autocompletion features.\n\nInstall:\n```bash\napm install atom-yii2\n```\n\n[1]: http://www.yiiframework.com/\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/igogo5yo/atom-yii2/issues"
+  },
+  "homepage": "https://github.com/igogo5yo/atom-yii2#readme",
+  "_id": "atom-yii2@0.4.0",
+  "_shasum": "45c21111414a85b31bb6c2137643093c6853f12d",
+  "_resolved": "file:../d-1151124-8481-t760wx/package.tgz",
+  "_from": "../d-1151124-8481-t760wx/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "completions.json",
+        "package.json"
+      ],
+      ".coffee": [
+        "lib/main.coffee",
+        "lib/provider.coffee"
+      ]
+    },
+    "folders": []
+  }
+}

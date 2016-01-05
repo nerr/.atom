@@ -10,11 +10,14 @@
     ]
     disabledPackages: [
       "atom-yii2"
+      "language-gfm"
+      "language-gfm"
+      "language-gfm"
     ]
     projectHome: "/Users/Leon/Code"
   editor:
     invisibles: {}
-    fontFamily: "SourceCodePro-ExtraLight"
+    fontFamily: "SourceCodePro-Light"
     fontSize: 13
     tabLength: 4
     tabType: "soft"

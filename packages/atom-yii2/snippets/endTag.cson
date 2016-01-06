@@ -1,4 +1,0 @@
-'.text':
-  'Yii 2 Html::endTag':
-    'prefix': 'het'
-    'body': '<?= Html::endTag(\'${1:tag}\'); ?>'

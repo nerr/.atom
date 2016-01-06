@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 Yii::error':
-    'prefix': 'yerror'
-    'body': 'Yii::error(\'${1:msg}\');'

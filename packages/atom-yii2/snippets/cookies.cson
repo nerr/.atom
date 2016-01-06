@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 Yii::$app->request->cookies':
-    'prefix': 'co'
-    'body': 'Yii::$app->request->cookies[\'$1\']'

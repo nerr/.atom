@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 app end()':
-    'prefix': 'yend'
-    'body': 'Yii::$app->end()'

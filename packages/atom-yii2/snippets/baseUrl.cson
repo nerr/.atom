@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 request baseUrl':
-    'prefix': 'yBaseUrl'
-    'body': 'Yii::$app->request->baseUrl'

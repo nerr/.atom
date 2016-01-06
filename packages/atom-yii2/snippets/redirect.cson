@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 redirect':
-    'prefix': 're'
-    'body': '\$this->redirect([\'${1:controller}/${2:action}\']);'

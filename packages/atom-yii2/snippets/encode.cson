@@ -1,4 +1,0 @@
-'.text':
-  'Yii 2 Html::encode':
-    'prefix': 'hec'
-    'body': '<?= Html::encode(${1:text}); ?>'

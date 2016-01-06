@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 renderDynamic':
-    'prefix': 'rd'
-    'body': '\$this->renderDynamic(\'${1:callback}\');'

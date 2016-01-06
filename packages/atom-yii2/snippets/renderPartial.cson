@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 render partial':
-    'prefix': 'rp'
-    'body': '\$this->renderPartial(\'${1:view}\'${2:, [\'${3:key}\' => ${4:value}]});'

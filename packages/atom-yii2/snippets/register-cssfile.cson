@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 register CSS file':
-    'prefix': 'regcf'
-    'body': '$this->registerCssFile(\'$1\');'

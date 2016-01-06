@@ -1,4 +1,0 @@
-'.source.php':
-  'Yii 2 register script':
-    'prefix': 'regs'
-    'body': '$this->registerJS(\'${1:id}\');'
